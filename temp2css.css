@@ -1,0 +1,117 @@
+.d1{
+	vertical-align: : center;
+	height: 300px;
+	width: 400px;
+	background-color:  #4dc3ff;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 25px;
+	padding-top: 15px;
+	color: white;
+}
+.line1{
+	font-size: 35px;
+}
+
+.line3_1{
+	position: absolute;
+	font-size: 100px;
+}
+
+.line3_2{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 250px;
+	font-size: 45px;
+}
+
+.degree{
+	position: absolute;
+	margin-top: -10px;
+	margin-left: -5px;
+	opacity: 0.5;
+	border-radius: 0px;
+}
+
+.line4{
+	position: absolute;
+	margin-top: 90px;
+	font-size: 35px;
+}
+
+.img1{
+	position: absolute;
+	margin-top: 125px;
+}
+
+.img2{
+	position: absolute;
+	margin-top: 125px;
+	margin-left: 70px;
+}
+
+.img3{
+	position: absolute;
+	margin-top: 125px;
+	margin-left: 140px;
+}
+
+.img4{
+	position: absolute;
+	margin-top: 125px;
+	margin-left: 210px;
+}
+
+.img5{
+	position: absolute;
+	margin-top: 125px;
+	margin-left: 280px;
+}
+
+.img6{
+	position: absolute;
+	margin-top: 125px;
+	margin-left: 350px;
+}
+
+.data1{
+	font-size: 20px;
+	position: absolute;
+	margin-top: 140px;
+}
+
+.data2{
+	font-size: 20px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 50px;
+}
+
+.data3{
+	font-size: 20px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 135px;
+}
+
+.data4{
+	font-size: 20px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 200px;
+}
+
+.data5{
+	font-size: 20px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 270px;
+}
+
+.data6{
+	font-size: 20px;
+	position: absolute;
+	margin-top: 140px;
+	margin-left: 340px;
+}

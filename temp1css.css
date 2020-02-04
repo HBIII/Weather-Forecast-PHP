@@ -1,0 +1,58 @@
+.p1{
+	vertical-align: : center;
+	height: 240px;
+	width: 700px;
+	background-color: limegreen;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 45px;
+}
+.c1{
+	color: white;
+	font-size: 50px;
+	align-content: center;
+}
+.w1{
+	color: white;
+}
+.t1 {
+	width: 140px; 
+	height: 25px
+}
+#s1{
+	width: 220px;
+}
+.checkbox{
+	position: absolute;
+	margin-left: 500px;
+	margin-top: -75px;	
+}
+
+.verticalline {
+	border-left: 4px solid white;
+	height: 130px;
+	position: absolute;
+	margin-top: 85px;
+	left: 54%;
+	margin-left: -3px;
+	top: 0;
+	border-radius: 5px;
+	}
+.btn1{
+	position: absolute;
+	margin-left: 250px;
+	margin-top: 55px;
+	border-radius: 4px;
+	border-style: none;
+	background: white;	
+}
+
+.btn2{
+	position: absolute;
+	margin-left: 310px;
+	margin-top: 55px;	
+	border-radius: 4px;
+	border-style: none;
+	background: white;
+}
